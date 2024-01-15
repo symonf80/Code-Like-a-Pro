@@ -13,7 +13,7 @@
         android:layout_height="@dimen/size48dp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        tools:srcCompat="@sample/posts_avatars" />
+        app:srcCompat="@drawable/ic_launcher_foreground" />
 
     <TextView
         android:id="@+id/author"
